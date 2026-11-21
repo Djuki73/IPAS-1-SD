@@ -1,0 +1,8 @@
+{
+  "name": "IndraKu — Video Interaktif IPAS Kelas 1 SD",
+  "description": "Pemutar dan editor video pembelajaran interaktif dengan soal di tengah video untuk materi IPAS Kelas 1 SD: Pengenalan Pancaindra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
