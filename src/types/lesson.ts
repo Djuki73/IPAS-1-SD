@@ -52,11 +52,7 @@ export interface LessonSegment {
 export interface StudentAnswer {
   checkpointId: string;
   selectedOptionId?: string;
-  clickedPoint?: { x: number; y: number };
+  clickedPoint?: {x: number; y: number};
   isCorrect: boolean;
   attempts: number;
 }
-
-export type AppMode = 'student' | 'teacher';
-
-export type VideoSourceMode = 'builtin' | 'custom';
